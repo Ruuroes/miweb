@@ -1,0 +1,140 @@
+# Sistema respiratorio
+---
+## Pulmones
+## Alveolos
+## Traquea
+## Boca
+
+esto esta en **negrita**
+esto esta en *cursiva*
+esto esta en -*negrita y cursiva a la vez*_
+esto es ~~malo~~
+
+1. uno
+2. dos
+3. tres
+4. cuatro
+
+
+* uno 
+* dos
+* tres
+
++ uno 
++ dos
++ tres
+   
+* uno
+    * jose 
+    * ruben
+    * pepe
+* dos
+  
+  me gusta htttp://cebem.net
+
+  [esto es cebem]
+  ( http://cebem.net)
+
+  ![esto es un gato](https://ichef.bbci.co.uk/news/320/cpsprodpb/57B3/production/_96315422_gettyimages-579742898.jpg)
+
+
+
+  este es mi codigo fuente:
+    ```java
+
+  String a= "angel"
+  System.out.println(a);
+    ```
+  ```html
+  <html>
+      <body>
+          <h1>Titulo</h1>
+     </body>
+    </html>
+
+
+  ```
+
+  |nombre | ciudad | edad|
+  |------ |:-------|:----|
+  |angel  |vigo    |17   |
+  |rosa   |**lugo**|18   |
+  |lu     |salamanca|22  |
+
+ > vini vidi vici
+ > Julio Cesar
+ >>Esto esta dentro 
+
+ nombre \*ruben roman\*
+
+@ angel gonzalez
+
+
+- [x] comprar pan
+- [x] comprar huevos
+- [ ] comprar patatas
+:+1:  
+
+
+<a
+href=https://youtu.be/OgIRAjnnJzI>
+<img
+src=https://www.youtube.com/watch?v=OgIRAjnnJzI>
+</a>
+
+
+
+quiero poner uina nota al pie
+
+[^nota1]: nota uno
+
+hola soy <span style="color:yellow">ruben</span>
+```diff red
+- esto es rojo
++ es to es verde
+# esto es verde pistacho
+```
+
+
+
+
+```mermaid
+graph TD;
+A -->B;
+A-->C;
+B-->D;
+C-->D;
+```
+
+
+
+```sequence
+alice->
+ ```
+
+FDGB
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
